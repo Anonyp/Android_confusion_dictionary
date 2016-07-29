@@ -16,7 +16,7 @@
 
 ## 效果
 
- ![confusion_dictionary](image\confusion_dictionary.png)
+ ![https://github.com/Anonyp/Android_confusion_dictionary](image\confusion_dictionary.png)
 
 ## Licenses
 
