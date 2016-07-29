@@ -16,7 +16,11 @@
 
 ## 效果
 
- ![https://github.com/Anonyp/Android_confusion_dictionary](image\confusion_dictionary.png)
+
+
+![混淆效果](https://raw.githubusercontent.com/Anonyp/Photo_Gallery/master/confusion_dictionary.png)
+
+
 
 ## Licenses
 
